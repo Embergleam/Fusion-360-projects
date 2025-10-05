@@ -72,7 +72,7 @@ Contributions are welcome! If you find bugs or have feature suggestions, please 
 
 ## License
 
-This Add-In falls under the top-level license for this repository 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Credits
 
