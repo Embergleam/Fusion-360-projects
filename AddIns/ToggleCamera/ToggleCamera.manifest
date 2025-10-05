@@ -1,0 +1,14 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "id": "CameraToggleAddin",
+    "author": "Embergleam Studios",
+    "description": {
+        "": "Toggle between Perspective and Orthographic camera modes"
+    },
+    "version": "1.0.0",
+    "runOnStartup": true,
+    "supportedOS": "windows|mac",
+    "editEnabled": true,
+    "iconFilename": "resources_orthogrtaphic/32x32.png"
+}
