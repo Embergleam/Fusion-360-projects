@@ -24,7 +24,7 @@ Note: These Add-In's have not been tested on MacOS. If you try one and find that
 
 To use these tools in Fusion 360:
 
-   Download its installer in this repository
+* Download its installer in this repository
 
 _or_
 
