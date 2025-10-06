@@ -20,18 +20,18 @@ Whether you're a designer, engineer, or hobbyist, you'll find useful utilities a
 
 ## 🚀 Getting Started
 
+Note: These Add-In's have not been tested on MacOS. If you try one and find that it works I would appreciate that feedback.
+
 To use these tools in Fusion 360:
 
-Find the relavant tool in the Fusion 360 App Store and download its installer
+* Download its installer in this repository
 
 _or_
 
-1. Clone or download this repository.
-2. Place scripts in your Fusion 360 **Scripts** folder, and Add-Ins in the **AddIns** folder.
-   - On Windows: `C:\Users\<YourName>\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\Scripts` or `AddIns`
-   - On macOS: `~/Library/Application Support/Autodesk/Autodesk Fusion 360/API/Scripts` or `AddIns`
-3. Launch Fusion 360 and run or activate the tools via the **Scripts and Add-Ins** panel.
-
+   1. Clone or download this repository.
+   2. Place scripts in your Fusion 360 **Scripts** folder, and Add-Ins in the **AddIns** folder.
+      - On Windows: `C:\Users\<YourName>\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\Scripts` or `AddIns`
+   3. Launch Fusion 360 and run or activate the tools via the **Scripts and Add-Ins** panel.
 ---
 
 ## 🤝 Contributions
