@@ -1,0 +1,13 @@
+{
+    "autodeskProduct": "Fusion",
+    "type": "addin",
+    "id": "CreateSelectionSet",
+    "author": "Embergleam Studios",
+    "description": {
+        "": "Find bodies by name and create selection sets"
+    },
+    "version": "1.0.0",
+    "runOnStartup": false,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
