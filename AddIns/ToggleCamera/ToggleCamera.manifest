@@ -10,5 +10,5 @@
     "runOnStartup": true,
     "supportedOS": "windows|mac",
     "editEnabled": true,
-    "iconFilename": "resources_orthogrtaphic/32x32.png"
+    "iconFilename": "resources_orthographic/32x32.png"
 }
